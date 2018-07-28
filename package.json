@@ -1,0 +1,25 @@
+{
+  "name": "@xternana/zeitding",
+  "version": "0.0.1",
+  "description": "Watches a collection of object tracking creation and update times ages them out and acts upon them",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xpertana/zeitding.git"
+  },
+  "author": "Glenn Schleicher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xpertana/zeitding.git/issues"
+  },
+  "homepage": "https://github.com/xpertana/zeitding.git#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
