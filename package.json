@@ -1,6 +1,6 @@
 {
   "name": "@xpertana/zeitding",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Watches a collection of object tracking creation and update times ages them out and acts upon them",
   "main": "index.js",
   "directories": {
